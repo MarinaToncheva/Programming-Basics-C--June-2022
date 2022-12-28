@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.exe
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.deps.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.dll
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.pdb
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.dll
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.pdb
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.genruntimeconfig.cache

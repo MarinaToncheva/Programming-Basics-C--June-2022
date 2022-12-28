@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.exe
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.deps.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.dll
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.pdb
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.dll
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.pdb
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.genruntimeconfig.cache

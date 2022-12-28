@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.exe
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.deps.json
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.genruntimeconfig.cache
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.exe
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.deps.json
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.dll
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.pdb
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.dll
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.pdb
+C:\Users\M.Toncheva\source\repos\For Loop - More Exercise\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.exe
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.deps.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.dll
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.pdb
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.dll
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.pdb
+C:\Users\M.Toncheva\source\repos\While Loop - More Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.genruntimeconfig.cache
