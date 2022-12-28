@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.exe
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.deps.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.dll
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.pdb
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.dll
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.pdb
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.exe
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.deps.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.dll
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.pdb
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.dll
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.pdb
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.genruntimeconfig.cache

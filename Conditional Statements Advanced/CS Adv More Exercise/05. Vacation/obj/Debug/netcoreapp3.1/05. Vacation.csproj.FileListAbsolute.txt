@@ -1,0 +1,13 @@
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.exe
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.deps.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.dll
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.pdb
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.dll
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.pdb
+C:\Users\M.Toncheva\source\repos\N CS - More Exercise\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.genruntimeconfig.cache
