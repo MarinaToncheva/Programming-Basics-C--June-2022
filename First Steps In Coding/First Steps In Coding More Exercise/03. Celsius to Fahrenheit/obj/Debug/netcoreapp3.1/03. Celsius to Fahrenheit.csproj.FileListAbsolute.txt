@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.exe
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.deps.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.genruntimeconfig.cache

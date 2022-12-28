@@ -1,0 +1,13 @@
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.exe
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.deps.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.genruntimeconfig.cache

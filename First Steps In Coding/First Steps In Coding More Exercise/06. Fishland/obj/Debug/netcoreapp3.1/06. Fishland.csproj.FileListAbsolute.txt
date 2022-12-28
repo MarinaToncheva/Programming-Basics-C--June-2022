@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.exe
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.deps.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.genruntimeconfig.cache

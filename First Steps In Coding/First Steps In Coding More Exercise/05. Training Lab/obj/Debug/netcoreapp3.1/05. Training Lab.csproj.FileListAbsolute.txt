@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.exe
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.deps.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.pdb
+C:\Users\M.Toncheva\source\repos\PB - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.genruntimeconfig.cache
