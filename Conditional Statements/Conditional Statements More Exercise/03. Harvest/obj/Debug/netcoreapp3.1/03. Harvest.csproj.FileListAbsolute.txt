@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.exe
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.deps.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.dll
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.pdb
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.dll
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.pdb
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.genruntimeconfig.cache

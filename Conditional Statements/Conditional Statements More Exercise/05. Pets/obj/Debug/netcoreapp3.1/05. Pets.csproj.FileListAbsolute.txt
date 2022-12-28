@@ -1,0 +1,13 @@
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.exe
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.deps.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.dll
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.pdb
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.dll
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.pdb
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.genruntimeconfig.cache

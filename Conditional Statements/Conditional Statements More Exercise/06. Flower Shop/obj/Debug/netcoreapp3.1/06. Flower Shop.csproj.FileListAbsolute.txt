@@ -1,0 +1,14 @@
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.exe
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.deps.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.dev.json
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.dll
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.pdb
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.AssemblyReference.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfoInputs.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfo.cs
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.CoreCompileInputs.cache
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.dll
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.pdb
+C:\Users\M.Toncheva\source\repos\CS - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.genruntimeconfig.cache
